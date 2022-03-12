@@ -7,13 +7,12 @@ public class Slicer : MonoBehaviour
 {
     public Material sliceSurface;
 
-    // Use this for initialization
     void Start()
     {
 
     }
 
-    // Update is called once per frame
+
     void Update()
     {
         //省略
@@ -47,4 +46,8 @@ public class Slicer : MonoBehaviour
 
 
     }
+
+
 }
+
+

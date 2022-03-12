@@ -9,13 +9,14 @@ public class CubeManager : MonoBehaviour
     public GameObject cubePb;
     public Transform[] originTrans;
     public Transform[] targetTrans;
+
     void Start()
     {
         InvokeRepeating("creatCube", 0, 2f);
     }
     void Update()
     {
-
+        //setMoveDir();
     }
     void creatCube()
     {
@@ -31,4 +32,8 @@ public class CubeManager : MonoBehaviour
             Destroy(obj);
         });
     }
+
+    
+
+
 }
