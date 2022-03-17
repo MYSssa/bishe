@@ -69,6 +69,10 @@
      <Compile Include="Assets\Scripts\Rotate.cs" />
      <Compile Include="Assets\Scripts\Slicer.cs" />
      <Compile Include="Assets\Scripts\UIManager.cs" />
+     <Compile Include="Assets\Scripts\uui\DlgChoice.cs" />
+     <Compile Include="Assets\Scripts\uui\DlgSong.cs" />
+     <Compile Include="Assets\Scripts\uui\DlgStart.cs" />
+     <Compile Include="Assets\Scripts\uui\DlgStore.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_Teleporter.cs" />
