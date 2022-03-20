@@ -3,15 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class DlgStore : MonoBehaviour
+public class DlgStore : DlgBase<DlgStore>
 {
-
-    public static DlgStore instance;
-
-    void Start()
+    void Awake()
     {
         instance = this;
-        instance.gameObject.SetActive(false);
+    }
+    void Start()
+    {
+        gameObject.SetActive(false);
 
     }
 

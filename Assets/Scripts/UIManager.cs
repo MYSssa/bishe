@@ -16,10 +16,12 @@ public class UIManager : MonoBehaviour
     {
         UGUI = gameObject.GetComponent<Canvas>();
 
-        Instantiate(Resources.Load("ui/DlgStart"), UGUI.transform);
+        //Instantiate(Resources.Load("ui/DlgStart"), UGUI.transform);
         Instantiate(Resources.Load("ui/DlgChoice"), UGUI.transform);
         Instantiate(Resources.Load("ui/DlgSong"), UGUI.transform);
         Instantiate(Resources.Load("ui/DlgStore"), UGUI.transform);
+        Instantiate(Resources.Load("ui/DlgMy"), UGUI.transform);
+
     }
 
 

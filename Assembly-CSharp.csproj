@@ -66,10 +66,13 @@
      <Compile Include="Assets\MeleeWeaponTrail\Scripts\Interpolate.cs" />
      <Compile Include="Assets\MeleeWeaponTrail\Scripts\MeleeWeaponTrail.cs" />
      <Compile Include="Assets\Scripts\CubeManager.cs" />
+     <Compile Include="Assets\Scripts\DlgBase.cs" />
      <Compile Include="Assets\Scripts\Rotate.cs" />
      <Compile Include="Assets\Scripts\Slicer.cs" />
      <Compile Include="Assets\Scripts\UIManager.cs" />
+     <Compile Include="Assets\Scripts\uui\DlgCharacter.cs" />
      <Compile Include="Assets\Scripts\uui\DlgChoice.cs" />
+     <Compile Include="Assets\Scripts\uui\DlgMy.cs" />
      <Compile Include="Assets\Scripts\uui\DlgSong.cs" />
      <Compile Include="Assets\Scripts\uui\DlgStart.cs" />
      <Compile Include="Assets\Scripts\uui\DlgStore.cs" />
