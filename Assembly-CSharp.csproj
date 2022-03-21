@@ -22,7 +22,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_2_1;UNITY_2018_2;UNITY_2018;PLATFORM_ARCH_64;UNITY_64;UNITY_ANALYTICS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITES;ENABLE_GRID;ENABLE_TILEMAP;ENABLE_TERRAIN;ENABLE_TEXTURE_STREAMING;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_VIDEO;ENABLE_PACKMAN;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_LOCALIZATION;PLATFORM_STANDALONE_WIN;PLATFORM_STANDALONE;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_EVENT_QUEUE;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_AR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;VRTK_DEFINE_SDK_STEAMVR;VRTK_DEFINE_STEAMVR_PLUGIN_1_2_1_OR_NEWER;VRTK_DEFINE_STEAMVR_PLUGIN_1_2_2_OR_NEWER;VRTK_VERSION_3_2_1;VRTK_VERSION_3_2_1_OR_NEWER;VRTK_VERSION_3_1_0_OR_NEWER;VRTK_VERSION_3_2_0_OR_NEWER</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_2_1;UNITY_2018_2;UNITY_2018;PLATFORM_ARCH_64;UNITY_64;UNITY_ANALYTICS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITES;ENABLE_GRID;ENABLE_TILEMAP;ENABLE_TERRAIN;ENABLE_TEXTURE_STREAMING;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_VIDEO;ENABLE_PACKMAN;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_LOCALIZATION;PLATFORM_STANDALONE_WIN;PLATFORM_STANDALONE;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_EVENT_QUEUE;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_AR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;UNITY_POST_PROCESSING_STACK_V2;VRTK_DEFINE_SDK_STEAMVR;VRTK_DEFINE_STEAMVR_PLUGIN_1_2_1_OR_NEWER;VRTK_DEFINE_STEAMVR_PLUGIN_1_2_2_OR_NEWER;VRTK_VERSION_3_2_1;VRTK_VERSION_3_2_1_OR_NEWER;VRTK_VERSION_3_1_0_OR_NEWER;VRTK_VERSION_3_2_0_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -76,6 +76,14 @@
      <Compile Include="Assets\Scripts\uui\DlgSong.cs" />
      <Compile Include="Assets\Scripts\uui\DlgStart.cs" />
      <Compile Include="Assets\Scripts\uui\DlgStore.cs" />
+     <Compile Include="Assets\SineVFX\LivingParticles\Resources\Scripts\Audio\LivingParticlesAudioModule.cs" />
+     <Compile Include="Assets\SineVFX\LivingParticles\Resources\Scripts\Audio\LivingParticlesAudioSource.cs" />
+     <Compile Include="Assets\SineVFX\LivingParticles\Resources\Scripts\LivingParticleArrayController.cs" />
+     <Compile Include="Assets\SineVFX\LivingParticles\Resources\Scripts\LivingParticleController.cs" />
+     <Compile Include="Assets\SineVFX\LivingParticles\Resources\Scripts\ParticleGridGenerator.cs" />
+     <Compile Include="Assets\SineVFX\LivingParticles\Resources\Scripts\ParticleSystemRampGenerator.cs" />
+     <Compile Include="Assets\SineVFX\LivingParticles\Resources\Scripts\SuperSimpleMovement.cs" />
+     <Compile Include="Assets\SineVFX\LivingParticles\Resources\Scripts\UIController.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_Teleporter.cs" />
@@ -432,23 +440,100 @@
      <Compile Include="Assets\VRTK\SDK\Ximmerse\SDK_XimmerseDefines.cs" />
      <Compile Include="Assets\VRTK\SDK\Ximmerse\SDK_XimmerseHeadset.cs" />
      <Compile Include="Assets\VRTK\SDK\Ximmerse\SDK_XimmerseSystem.cs" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\FinalPass.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Debug\Waveform.compute" />
+     <None Include="Assets\SineVFX\LivingParticles\Resources\Shaders\LivingParticleFloorArray.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Uber.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Texture3DLerp.compute" />
+     <None Include="Assets\SineVFX\LivingParticles\04.UsingWithSRP.txt" />
+     <None Include="Assets\SineVFX\LivingParticles\Resources\Shaders\LivingParticleAlphaBlended.shader" />
+     <None Include="Assets\SineVFX\LivingParticles\Resources\Shaders\SkyboxProceduralDesaturated.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\CopyStd.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Bloom.shader" />
      <None Include="Assets\SteamVR\Resources\SteamVR_Fade.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\CopyStdFromDoubleWide.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\xRLib.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\API\Switch.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\MultiScaleVOUpsample.compute" />
      <None Include="Assets\SteamVR\Resources\SteamVR_ClearAll.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\API\PSSL.hlsl" />
      <None Include="Assets\MeleeWeaponTrail\README.txt" />
      <None Include="Assets\SteamVR\InteractionSystem\Hints\Shaders\ControllerButtonHints.shader" />
+     <None Include="Assets\SineVFX\LivingParticles\Resources\Shaders\LivingParticleMaskedPbr.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Debug\Vectorscope.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\GaussianDownsample.compute" />
+     <None Include="Assets\SineVFX\LivingParticles\03.AudioReactiveEffects.txt" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\ScreenSpaceReflections.hlsl" />
+     <None Include="Assets\SineVFX\LivingParticles\Resources\Shaders\LivingParticleMaskedMorphPbrArray.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\DepthOfField.shader" />
+     <None Include="Assets\SineVFX\LivingParticles\Resources\Shaders\LivingParticleFloorPbrArray.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\DiscardAlpha.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Lut3DBaker.compute" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Dithering.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Colors.hlsl" />
      <None Include="Assets\VRTK\Scripts\Internal\Shaders\UIOverlay.shader" />
      <None Include="Assets\SteamVR\InteractionSystem\Teleport\Shaders\Highlight.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\API\Vulkan.hlsl" />
      <None Include="Assets\VRTK\Scripts\Internal\Shaders\VRTK_OutlineBasic.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\GrainBaker.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\ExposureHistogram.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Debug\LightMeter.shader" />
      <None Include="Assets\VRTK\Scripts\Internal\Shaders\AdaptiveQualityDebugVisualization.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\API\D3D12.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\API\OpenGL.hlsl" />
+     <None Include="Assets\SineVFX\LivingParticles\Resources\Shaders\LivingParticleMaskedMorphPbr.shader" />
+     <None Include="Assets\SineVFX\LivingParticles\Resources\Shaders\LivingParticleMaskedPbrArray.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\DiskKernels.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\MultiScaleVODownsample2.compute" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\ScalableAO.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\ACES.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\MultiScaleVODownsample1.compute" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\StdLib.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\MultiScaleVO.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\DepthOfField.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\FastApproximateAntialiasing.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Fog.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\MultiScaleVORender.compute" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\ScalableAO.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\SubpixelMorphologicalAntialiasing.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\MotionBlur.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\SubpixelMorphologicalAntialiasing.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Texture2DLerp.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\DeferredFog.shader" />
      <None Include="Assets\Koreographer\ReadMe.txt" />
+     <None Include="Assets\SineVFX\LivingParticles\Resources\Shaders\LivingParticleFloor.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\CopyStdFromTexArray.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\API\D3D9.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Lut2DBaker.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\AutoExposure.compute" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Debug\Overlays.shader" />
+     <None Include="Assets\SineVFX\LivingParticles\01.QuickStart.txt" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\API\Metal.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Distortion.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Debug\Vectorscope.compute" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\TemporalAntialiasing.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\SubpixelMorphologicalAntialiasingBridge.hlsl" />
+     <None Include="Assets\SineVFX\LivingParticles\02.MaterialParameters.txt" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\ScreenSpaceReflections.shader" />
      <None Include="Assets\SteamVR\Resources\SteamVR_SphericalProjection.shader" />
      <None Include="Assets\SteamVR\Resources\SteamVR_AlphaOut.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Copy.shader" />
      <None Include="Assets\VRTK\Scripts\Internal\Shaders\TransparentFresnelBehind.shader" />
+     <None Include="Assets\SineVFX\LivingParticles\Resources\Shaders\LivingParticleAlphaBlendedArray.shader" />
      <None Include="Assets\SteamVR\readme.txt" />
      <None Include="Assets\SteamVR\InteractionSystem\Core\Shaders\Silhouette.shader" />
      <None Include="Assets\VRTK\Scripts\Internal\Shaders\Unlit_TransparentColor.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\API\D3D11.hlsl" />
      <None Include="Assets\SteamVR\Resources\SteamVR_ColorOut.shader" />
+     <None Include="Assets\SineVFX\LivingParticles\Resources\Shaders\LivingParticleFloorPbr.shader" />
      <None Include="Assets\SteamVR\InteractionSystem\Core\Shaders\SeeThru.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Debug\Waveform.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\API\XboxOne.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Sampling.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\API\PSP2.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Debug\Histogram.compute" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Debug\Histogram.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\ExposureHistogram.compute" />
      <None Include="Assets\SteamVR\InteractionSystem\Readme_InteractionSystem.txt" />
  <Reference Include="Unity.ProBuilder.AddOns.Editor">
  <HintPath>C:/Users/ssk/Desktop/bishe/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
@@ -724,6 +809,10 @@
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
       <Project>{C61D1A15-C333-3350-AF9E-C661A10ACED5}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+    <ProjectReference Include="Unity.Postprocessing.Editor.csproj">
+      <Project>{528C0E79-FA1F-AF0E-38EA-7945F71AC926}</Project>      <Name>Unity.Postprocessing.Editor</Name>    </ProjectReference>
+    <ProjectReference Include="Unity.Postprocessing.Runtime.csproj">
+      <Project>{46958E10-A778-A6DC-E4DD-87A8369FB448}</Project>      <Name>Unity.Postprocessing.Runtime</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
