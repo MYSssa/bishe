@@ -8,14 +8,14 @@ public class DlgChoice : DlgBase<DlgChoice>
 
     private Button song;
     private Button store;
-    private Button character;
+    private Button setting;
     private Button my;
     void Awake()
     {
         instance = this;
         song = GameObject.Find("song").GetComponent<Button>();
         store = GameObject.Find("store").GetComponent<Button>();
-        character = GameObject.Find("character").GetComponent<Button>();
+        setting = GameObject.Find("setting").GetComponent<Button>();
         my = GameObject.Find("my").GetComponent<Button>();
     }
     void Start()
@@ -32,9 +32,9 @@ public class DlgChoice : DlgBase<DlgChoice>
             instance.gameObject.SetActive(false);
             DlgStore.instance.gameObject.SetActive(true);
         });
-        character.onClick.AddListener(() =>
+        setting.onClick.AddListener(() =>
         {
-            DlgCharacter.instance.gameObject.SetActive(true);
+            DlgSetting.instance.gameObject.SetActive(true);
         });
         my.onClick.AddListener(() =>
         {

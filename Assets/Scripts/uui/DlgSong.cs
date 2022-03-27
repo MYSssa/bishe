@@ -18,7 +18,7 @@ public class DlgSong : DlgBase<DlgSong>
         instance = this;
         back = GameObject.Find("back").GetComponent<Button>();
         back2 = GameObject.Find("back2").GetComponent<Button>();
-        song1 = GameObject.Find("song1").GetComponent<Button>();
+        song1 = GameObject.Find("不可道").GetComponent<Button>();
         BG1 = GameObject.Find("BG1").GetComponent<RectTransform>();
         BG2 = GameObject.Find("BG2").GetComponent<RectTransform>();
         start = GameObject.Find("start").GetComponent<Button>();

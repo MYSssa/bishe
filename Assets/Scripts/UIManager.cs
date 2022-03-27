@@ -21,6 +21,7 @@ public class UIManager : MonoBehaviour
         Instantiate(Resources.Load("ui/DlgSong"), UGUI.transform);
         Instantiate(Resources.Load("ui/DlgStore"), UGUI.transform);
         Instantiate(Resources.Load("ui/DlgMy"), UGUI.transform);
+        Instantiate(Resources.Load("ui/DlgSetting"), UGUI.transform);
 
     }
 
