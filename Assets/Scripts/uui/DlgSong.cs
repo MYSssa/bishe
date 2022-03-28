@@ -22,7 +22,6 @@ public class DlgSong : DlgBase<DlgSong>
         BG1 = GameObject.Find("BG1").GetComponent<RectTransform>();
         BG2 = GameObject.Find("BG2").GetComponent<RectTransform>();
         start = GameObject.Find("start").GetComponent<Button>();
-        sound = GameObject.Find("sound").GetComponent<Dropdown>();
 
     }
 
@@ -49,10 +48,6 @@ public class DlgSong : DlgBase<DlgSong>
         {
             BG2.gameObject.SetActive(false);
         });
-        //sound.onValueChanged.AddListener((value) =>
-        //{
-        //    sound.options.Add
-        //});
     }
 
     void Update()
